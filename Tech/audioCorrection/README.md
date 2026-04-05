@@ -1,4 +1,4 @@
-# Signal Recovery - Electronics & Robotics Club Technical Assignment
+# Signal Recovery 
 
 ## Executive Summary
 
