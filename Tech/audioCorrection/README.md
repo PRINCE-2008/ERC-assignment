@@ -1,6 +1,6 @@
 # Signal Recovery 
 
-## Executive Summary
+## Summary
 
 Successfully recovered the original audio signal from the corrupted transmission through systematic signal processing investigation. The corruption consisted of three sequential distortions: **frequency shift**, **multiple narrow-band interference spikes**, and **phase modulation**.
 
